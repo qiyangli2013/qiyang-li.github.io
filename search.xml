@@ -4,6 +4,12 @@
     <title><![CDATA[try math and ipynb(new3)]]></title>
     <url>%2F2018%2F04%2F03%2Fa%2F</url>
     <content type="text"><![CDATA[abc a^{b^{\sqrt{c}}} a​b​√​c​​​​​​​ Display as block: h_\theta(x) = \theta^Tx or h_\theta(x) = \theta^Tx Display inline: blabla.. or blabla.. display inline $v$ $("#ipynb").load( function() { console.log($("#ipynb").contents().find("body").find("#notebook")); document.getElementById('ipynb').height=$("#ipynb").contents().find("#notebook").height()+100; }) keep trying]]></content>
+      <categories>
+        <category>try</category>
+      </categories>
+      <tags>
+        <tag>experiment</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
